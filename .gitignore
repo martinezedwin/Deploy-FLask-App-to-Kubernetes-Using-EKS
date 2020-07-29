@@ -27,3 +27,6 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# set env variables and run locally
+run_local.sh
